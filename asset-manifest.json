@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://portosaurusdev.github.io/ethansk-8a69a/static/css/main.e304fb73.chunk.css",
+    "main.js": "https://portosaurusdev.github.io/ethansk-8a69a/static/js/main.7a7e228d.chunk.js",
+    "main.js.map": "https://portosaurusdev.github.io/ethansk-8a69a/static/js/main.7a7e228d.chunk.js.map",
+    "runtime-main.js": "https://portosaurusdev.github.io/ethansk-8a69a/static/js/runtime-main.99b1e556.js",
+    "runtime-main.js.map": "https://portosaurusdev.github.io/ethansk-8a69a/static/js/runtime-main.99b1e556.js.map",
+    "static/css/2.2c0f828a.chunk.css": "https://portosaurusdev.github.io/ethansk-8a69a/static/css/2.2c0f828a.chunk.css",
+    "static/js/2.23e64e52.chunk.js": "https://portosaurusdev.github.io/ethansk-8a69a/static/js/2.23e64e52.chunk.js",
+    "static/js/2.23e64e52.chunk.js.map": "https://portosaurusdev.github.io/ethansk-8a69a/static/js/2.23e64e52.chunk.js.map",
+    "index.html": "https://portosaurusdev.github.io/ethansk-8a69a/index.html",
+    "precache-manifest.f397872353e1d13d67a6c48ed8943f5e.js": "https://portosaurusdev.github.io/ethansk-8a69a/precache-manifest.f397872353e1d13d67a6c48ed8943f5e.js",
+    "service-worker.js": "https://portosaurusdev.github.io/ethansk-8a69a/service-worker.js",
+    "static/css/2.2c0f828a.chunk.css.map": "https://portosaurusdev.github.io/ethansk-8a69a/static/css/2.2c0f828a.chunk.css.map",
+    "static/css/main.e304fb73.chunk.css.map": "https://portosaurusdev.github.io/ethansk-8a69a/static/css/main.e304fb73.chunk.css.map",
+    "static/js/2.23e64e52.chunk.js.LICENSE.txt": "https://portosaurusdev.github.io/ethansk-8a69a/static/js/2.23e64e52.chunk.js.LICENSE.txt",
+    "static/media/defaultProfile.png": "https://portosaurusdev.github.io/ethansk-8a69a/static/media/defaultProfile.cd6d11ef.png",
+    "static/media/defaultbanner.png": "https://portosaurusdev.github.io/ethansk-8a69a/static/media/defaultbanner.d1055b19.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99b1e556.js",
+    "static/css/2.2c0f828a.chunk.css",
+    "static/js/2.23e64e52.chunk.js",
+    "static/css/main.e304fb73.chunk.css",
+    "static/js/main.7a7e228d.chunk.js"
+  ]
+}
